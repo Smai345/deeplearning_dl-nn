@@ -1,8 +1,0 @@
-course 2
-
-Week 3:
-Introduction to gradients and automatic differentiation  : https://www.tensorflow.org/guide/autodiff
- (TensorFlow Documentation)
-
-tf.GradientTape        :       https://www.tensorflow.org/guide/autodiff
- (TensorFlow Documentation)
